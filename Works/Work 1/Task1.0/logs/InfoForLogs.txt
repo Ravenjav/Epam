@@ -1,0 +1,2 @@
+If you see "--------------------" in the last Info Log, then program end successfuly
+(may be with wrongs which I have foreseen. And you can find info about exception in file logs4j2.log)
