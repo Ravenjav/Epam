@@ -19,12 +19,12 @@ public class Controller {
 
         outData.outString("Каждое число вводиться с новой строки");
 
-        /** Task 2.1  Class EqualsDouble*/
+        /** Task 2.1 */
         EqualsDouble eD = new EqualsDouble();
         outData.outString("Ввведите два числа (Task 2.1)");
         outData.outInt(eD.equalsDouble(inData.scanDouble(), inData.scanInt()));
 
-        /** Task 2.9  Class Equals3Double*/
+        /** Task 2.9 */
         outData.outString("Введите три стороны треугольника (Task 2.9)");
         Equals3Double e3D = new Equals3Double();
         boolean answer = e3D.equals3Double(inData.scanDouble(), inData.scanDouble(), inData.scanDouble());
@@ -33,20 +33,20 @@ public class Controller {
         else
             outData.outString("Треугольник не равносторонний");
 
-        /** Task 2.17  */
+        /** Task 2.17 */
         SimpleIf sI = new SimpleIf();
         outData.outString("Введите два числа(Task 2.17)");
         int x = sI.simpleIf(inData.scanInt(), inData.scanInt());
         outData.outString(x + " " + x);
 
-        /** Task 2.25  */
+        /** Task 2.25 */
         TemperatureAnalysis tA = new TemperatureAnalysis();
         outData.outString("Введите текущую температуру в комнате (Task 2.25)");
         answer = tA.temperatureAnalysis(inData.scanDouble());
         if (answer)
             outData.outString("Пожароопасная ситуация");
 
-        /** Task 2.33  */
+        /** Task 2.33 */
         AccessLevel aL = new AccessLevel();
         outData.outString("Введите четырехзначный пароль (Task 2.33)");
         char y = aL.accessLevel(inData.scanInt());
@@ -56,13 +56,13 @@ public class Controller {
             outData.outString("Ваш уровень доступа: " + y);
 
         SimpleFor sF = new SimpleFor();
-        /** Task 3.1  */
+        /** Task 3.1 */
         outData.outMasInt(sF.simpleFor());
 
-        /** Task 3.9  */
+        /** Task 3.9 */
         outData.outInt(sF.sumFor());
 
-        /** Task 3.17  */
+        /** Task 3.17 */
         outData.outString("Введите a и n (Task 3.17)");
         outData.outDouble(sF.multForAToN(inData.scanDouble(), inData.scanInt()));
 
