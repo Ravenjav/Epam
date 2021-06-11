@@ -7,7 +7,7 @@ public class TemperatureAnalysis {
 
     public static final Logger temperatureAnalysis  = (Logger) LogManager.getLogger(TemperatureAnalysis.class);
 
-    public static boolean temperatureAnalysis (double t){
+    public boolean temperatureAnalysis (double t){
         temperatureAnalysis.info("Start equals3Double with t = " + t);
         if (t > 60.0) {
             temperatureAnalysis.info("Done equals3Double");

@@ -9,9 +9,9 @@ import static java.lang.StrictMath.abs;
 
 public class Equals3Double {
 
-    public static final Logger equals3Double = (Logger) LogManager.getLogger(By.Epam.Traning.Service.Equals3Double.class);
+    private static final Logger equals3Double = (Logger) LogManager.getLogger(By.Epam.Traning.Service.Equals3Double.class);
 
-    public static boolean equals3Double (double a, double b, double c){
+    public boolean equals3Double (double a, double b, double c){
         equals3Double.info("Start equals3Double with a =" + a + " b = " + b + " c = " + c);
         if (a <= 0 || b <= 0 || c <= 0){
             equals3Double.error("side length 0 or negative ");

@@ -1,11 +1,11 @@
 package Test.Action;
 
+import By.Epam.Traning.Service.Equals3Double;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import java.util.InputMismatchException;
 
-import static By.Epam.Traning.Service.Equals3Double.equals3Double;
 import static org.testng.Assert.assertEquals;
 
 public class TestEquals3Double {
@@ -31,7 +31,8 @@ public class TestEquals3Double {
 
     @Test(description = "Positive scenario of the Equals3Double", dataProvider = "dataForEquals3Double")
     public void testEquals3Double(double xy[], boolean c) {
-        boolean actual = equals3Double(xy[0], xy[1], xy[2]);
+        Equals3Double e3D = new Equals3Double();
+        boolean actual = e3D.equals3Double(xy[0], xy[1], xy[2]);
         boolean expected = c;
         assertEquals(actual, expected);
     }
@@ -40,6 +41,7 @@ public class TestEquals3Double {
             expectedExceptions = InputMismatchException.class,
             expectedExceptionsMessageRegExp = "side length can not be 0 or negative")
     public void testEquals3DoubleWithExc(double xy[]) {
-        equals3Double(xy[0], xy[1], xy[2]);
+        Equals3Double e3D = new Equals3Double();
+        e3D.equals3Double(xy[0], xy[1], xy[2]);
     }
 }

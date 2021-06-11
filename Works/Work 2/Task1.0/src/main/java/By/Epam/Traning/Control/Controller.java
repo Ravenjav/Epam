@@ -1,96 +1,80 @@
 package By.Epam.Traning.Control;
 
 import By.Epam.Traning.DataAccess.ConsoleIn;
-import By.Epam.Traning.Expert.MasDouble;
-import By.Epam.Traning.Expert.MasInt;
+import By.Epam.Traning.DataOut.ConsoleOut;
+import By.Epam.Traning.Service.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.util.ArrayList;
-
-import static By.Epam.Traning.DataOut.ConsoleOut.*;
-import static By.Epam.Traning.Service.AccessLevel.accessLevel;
-import static By.Epam.Traning.Service.Equals3Double.equals3Double;
-import static By.Epam.Traning.Service.EqualsDouble.equalsDouble;
-import static By.Epam.Traning.Service.Factorial.factorial;
-import static By.Epam.Traning.Service.FindBiggestNumber.findBiggestNumber;
-import static By.Epam.Traning.Service.SimpleFor.*;
-import static By.Epam.Traning.Service.SimpleIf.simpleIf;
-import static By.Epam.Traning.Service.TemperatureAnalysis.temperatureAnalysis;
 
 public class Controller {
 
-    public static final Logger controller = LogManager.getLogger(By.Epam.Traning.Control.Controller.class);
+    private static final Logger controller = LogManager.getLogger(By.Epam.Traning.Control.Controller.class);
 
-    public static void start(){
+    public void start(){
         controller.info("Access start program");
 
-        /**Read from console*/
-        ArrayList<ArrayList> allinfo = new ArrayList<ArrayList>();
-        allinfo = ConsoleIn.scanAllInfo();
+        ConsoleIn inData = new ConsoleIn();
+        ConsoleOut outData = new ConsoleOut();
 
-        for (int f = 0; f < allinfo.size(); f ++){
-            for (int j = 0; j < allinfo.get(f).size(); j ++){
-                System.out.print(allinfo.get(f).get(j) + " ");
-            }
-            System.out.println();
-        }
-
-        MasDouble masDouble = new MasDouble(allinfo.get(0));
-        MasInt masInt = new MasInt(allinfo.get(1));
+        outData.outString("Каждое число вводиться с новой строки");
 
         /** Task 2.1  Class EqualsDouble*/
-        outInt(equalsDouble(masDouble.getElement(0), masDouble.getElement(1)));
+        EqualsDouble eD = new EqualsDouble();
+        outData.outString("Ввведите два числа (Task 2.1)");
+        outData.outInt(eD.equalsDouble(inData.scanDouble(), inData.scanInt()));
 
         /** Task 2.9  Class Equals3Double*/
-        boolean answer = equals3Double(masDouble.getElement(2), masDouble.getElement(3), masDouble.getElement(4));
+        outData.outString("Введите три стороны треугольника (Task 2.9)");
+        Equals3Double e3D = new Equals3Double();
+        boolean answer = e3D.equals3Double(inData.scanDouble(), inData.scanDouble(), inData.scanDouble());
         if (answer)
-            outString("Треугольник равносторонний");
+            outData.outString("Треугольник равносторонний");
         else
-            outString("Треугольник не равносторонний");
+            outData.outString("Треугольник не равносторонний");
 
-        /** Task 2.17  Class SimpleIf*/
-        int x = simpleIf(masInt.getElement(0), masInt.getElement(1));
-        outString(x + " " + x);
+        /** Task 2.17  */
+        SimpleIf sI = new SimpleIf();
+        outData.outString("Введите два числа(Task 2.17)");
+        int x = sI.simpleIf(inData.scanInt(), inData.scanInt());
+        outData.outString(x + " " + x);
 
-        /** Task 2.25  Class TemperatureAnalysis */
-        answer = temperatureAnalysis(masDouble.getElement(5));
+        /** Task 2.25  */
+        TemperatureAnalysis tA = new TemperatureAnalysis();
+        outData.outString("Введите текущую температуру в комнате (Task 2.25)");
+        answer = tA.temperatureAnalysis(inData.scanDouble());
         if (answer)
-            outString("Пожароопасная ситуация");
+            outData.outString("Пожароопасная ситуация");
 
-        /** Task 2.33  Class AccessLevel */
-        x = accessLevel(masInt.getElement(2));
-        switch (x){
-            case (1):{
-                outString("Ваш уровень доступа A");
-                break;
-            }
-            case (2):{
-                outString("Ваш уровень доступа B");
-                break;
-            }
-            case (3):{
-                outString("Ваш уровень доступа C");
-                break;
-            }
-            default:
-                outString("Пароль неверный");
-        }
+        /** Task 2.33  */
+        AccessLevel aL = new AccessLevel();
+        outData.outString("Введите четырехзначный пароль (Task 2.33)");
+        char y = aL.accessLevel(inData.scanInt());
+        if (x == 'Z')
+            outData.outString("Пароль неверный");
+        else
+            outData.outString("Ваш уровень доступа: " + y);
 
-        /** Task 3.1  Class SimpleFor */
-        outArrayInt(simpleFor());
+        SimpleFor sF = new SimpleFor();
+        /** Task 3.1  */
+        outData.outMasInt(sF.simpleFor());
 
-        /** Task 3.9  Class SimpleFor */
-        outInt(sumFor());
+        /** Task 3.9  */
+        outData.outInt(sF.sumFor());
 
-        /** Task 3.17  Class SimpleFor */
-        outInt(multForAToN(masInt.getElement(3), masInt.getElement(4)));
+        /** Task 3.17  */
+        outData.outString("Введите a и n (Task 3.17)");
+        outData.outDouble(sF.multForAToN(inData.scanDouble(), inData.scanInt()));
 
-        /** Task 3.25  Class Factorial */
-        outInt(factorial(masInt.getElement(5)));
+        /** Task 3.25 */
+        outData.outString("Введите число (Task 3.25)");
+        Factorial f = new Factorial();
+        outData.outInt(f.factorial(inData.scanInt()));
 
-        /** Task 3.33  Class findBiggestNumber */
-        outInt(findBiggestNumber(masInt.getElement(6)));
+        /** Task 3.33 */
+        outData.outString("Введите число (Task 3.33)");
+        FindBiggestNumber find = new FindBiggestNumber();
+        outData.outInt(find.findBiggestNumber(inData.scanInt()));
 
         return;
     }

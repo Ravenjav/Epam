@@ -33,32 +33,28 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Git-Rep\Epam\Works\Work 2\Task1.0\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestFindBiggestNumber">
-    <configuration name="TestAccessLevel" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="By.Epam.Traning.Control.Main" />
       <module name="Task1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.Action.*" />
+          <option name="PATTERN" value="By.Epam.Traning.Control.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Test.Action" />
-      <option name="MAIN_CLASS_NAME" value="Test.Action.TestAccessLevel" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFactorial" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFactorial.testFactorialWithExc0" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Task1.0" />
       <extension name="coverage">
         <pattern>
@@ -68,7 +64,8 @@
       </extension>
       <option name="PACKAGE_NAME" value="Test.Action" />
       <option name="MAIN_CLASS_NAME" value="Test.Action.TestFactorial" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="METHOD_NAME" value="testFactorialWithExc0" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -92,7 +89,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSimpleFor" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSimpleFor.testMultForAToN" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Task1.0" />
       <extension name="coverage">
         <pattern>
@@ -102,14 +99,15 @@
       </extension>
       <option name="PACKAGE_NAME" value="Test.Action" />
       <option name="MAIN_CLASS_NAME" value="Test.Action.TestSimpleFor" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="METHOD_NAME" value="testMultForAToN" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTemperatureAnalysis" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSimpleFor.testMultForAToNWithExc" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Task1.0" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +116,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Test.Action" />
-      <option name="MAIN_CLASS_NAME" value="Test.Action.TestTemperatureAnalysis" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="Test.Action.TestSimpleFor" />
+      <option name="METHOD_NAME" value="testMultForAToNWithExc" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -128,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.TestSimpleFor.testMultForAToNWithExc" />
+        <item itemvalue="TestNG.TestSimpleFor.testMultForAToN" />
+        <item itemvalue="TestNG.TestFactorial.testFactorialWithExc0" />
         <item itemvalue="TestNG.TestFindBiggestNumber" />
-        <item itemvalue="TestNG.TestFactorial" />
-        <item itemvalue="TestNG.TestSimpleFor" />
-        <item itemvalue="TestNG.TestAccessLevel" />
-        <item itemvalue="TestNG.TestTemperatureAnalysis" />
       </list>
     </recent_temporary>
   </component>
@@ -162,42 +161,74 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="0" width="596" height="728" key="#TestSimpleFor.testMultForAToNWithExc" timestamp="1623435898269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" width="596" height="728" key="#TestSimpleFor.testMultForAToNWithExc/0.0.1366.728@0.0.1366.728" timestamp="1623435898269" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623432595007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1623432595007" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1623432226624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1623432226624" />
     <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1622397765278">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1622397765278" />
-    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622308111378">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623430021714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1622308111378" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1622404411785">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1623430021714" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1623435847623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622404411785" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1622408011150">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623435847623" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1623437055350">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622408011150" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1622408011149">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623437055350" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1623437055349">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622408011149" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1622408011149">
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623437055349" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1623437055349">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622408011149" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1622408011150">
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623437055349" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1623437055349">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622408011150" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1622405746390">
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623437055349" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1623437055350">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1622405746390" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1622393229602">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623437055350" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1623437055350">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1622393229602" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1623437055350" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1623437055350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1623437055350" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1623437055350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1623437055350" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1623437098847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1623437098847" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1622566225814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1622566225814" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623437066247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1623437066247" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1622405753439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -208,25 +239,40 @@
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1622405750530" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Task1_0$Main.ic" NAME="Main Coverage Results" MODIFIED="1622404244513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$Main.ic" NAME="Main Coverage Results" MODIFIED="1623436530795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>By.Epam.Traning.Control.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$TestFindBiggestNumber.ic" NAME="TestFindBiggestNumber Coverage Results" MODIFIED="1622408011060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$TestFindBiggestNumber.ic" NAME="TestFindBiggestNumber Coverage Results" MODIFIED="1623435275865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.Action.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$TestTemperatureAnalysis.ic" NAME="TestTemperatureAnalysis Coverage Results" MODIFIED="1622406688468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.Action.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$TestSimpleFor.ic" NAME="TestSimpleFor Coverage Results" MODIFIED="1622407469440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$TestFactorial_testFactorialWithExc.ic" NAME="TestFactorial.testFactorialWithExc Coverage Results" MODIFIED="1623434300520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.Action.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$TestAccessLevel.ic" NAME="TestAccessLevel Coverage Results" MODIFIED="1622406945848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$TestSimpleFor_testMultForAToNWithExc.ic" NAME="TestSimpleFor.testMultForAToNWithExc Coverage Results" MODIFIED="1623436177278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test.Action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$TestSimpleFor_testSimpleFor.ic" NAME="TestSimpleFor.testSimpleFor Coverage Results" MODIFIED="1623430280483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test.Action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$TestSimpleFor_testMultForAToN.ic" NAME="TestSimpleFor.testMultForAToN Coverage Results" MODIFIED="1623435885866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.Action.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$TestEquals3Double.ic" NAME="TestEquals3Double Coverage Results" MODIFIED="1622406004683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.Action.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$TestFactorial.ic" NAME="TestFactorial Coverage Results" MODIFIED="1622407650031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$TestFactorial_testFactorialWithExc0.ic" NAME="TestFactorial.testFactorialWithExc0 Coverage Results" MODIFIED="1623435418090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test.Action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$TestSimpleFor.ic" NAME="TestSimpleFor Coverage Results" MODIFIED="1623429319082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test.Action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$TestAccessLevel.ic" NAME="TestAccessLevel Coverage Results" MODIFIED="1622406945848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test.Action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$TestFactorial.ic" NAME="TestFactorial Coverage Results" MODIFIED="1623434392477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.Action.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$TestSimpleIf.ic" NAME="TestSimpleIf Coverage Results" MODIFIED="1622406406032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -7,11 +7,11 @@ import java.util.ArrayList;
 
 public class SimpleFor {
 
-    public static final Logger simpleFor = (Logger) LogManager.getLogger(By.Epam.Traning.Service.SimpleFor.class);
+    private static final Logger simpleFor = (Logger) LogManager.getLogger(By.Epam.Traning.Service.SimpleFor.class);
 
-    public static ArrayList<Integer> simpleFor(){
+    public ArrayList<Integer> simpleFor(){
         simpleFor.info("Start simpleFor");
-        ArrayList<Integer> answer= new ArrayList<Integer>();
+        ArrayList<Integer> answer = new ArrayList<Integer>();
         for (int i = 1; i < 6; i++){
             answer.add(i);
         }
@@ -19,7 +19,7 @@ public class SimpleFor {
         return answer;
     }
 
-    public static int sumFor(){
+    public int sumFor(){
         simpleFor.info("Start sumFor");
         int sum = 0;
         for (int i = 1; i < 101; i++){
@@ -29,11 +29,22 @@ public class SimpleFor {
         return sum;
     }
 
-    public static int multForAToN(int a, int n){
+    public double multForAToN(double a, int n){
         simpleFor.info("Start multForAToN with a = " + a + " n = " + n);
-        int answer = 1;
-        for (int i = a; i < (a + n); i++){
-            answer *= i;
+        double answer = 1;
+        if ( a + n - 0.5 == Double.POSITIVE_INFINITY || a + n - 0.5 == Double.NEGATIVE_INFINITY){
+            simpleFor.error("Error in multForAToN, type overflow");
+            simpleFor.info("-------------------------------");
+            throw new IllegalArgumentException("type overflow");
+        }
+        for (double i = 0; i < n; i++){
+            answer *= (a + i);
+            System.out.println(answer);
+            if ( answer == Double.POSITIVE_INFINITY || answer == Double.NEGATIVE_INFINITY){
+                simpleFor.error("Error in multForAToN, type overflow");
+                simpleFor.info("-------------------------------");
+                throw new IllegalArgumentException("type overflow");
+            }
         }
         simpleFor.info("Access multForAToN");
         return answer;

@@ -1,10 +1,10 @@
 package Test.Action;
 
+import By.Epam.Traning.Service.FindBiggestNumber;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import static By.Epam.Traning.Service.FindBiggestNumber.findBiggestNumber;
-import static org.testng.Assert.assertEquals;
+import java.util.InputMismatchException;
 
 public class TestFindBiggestNumber {
     @DataProvider(name = "dataForFindBiggestNumber")
@@ -18,10 +18,22 @@ public class TestFindBiggestNumber {
         };
     }
 
-    @Test(description = "Positive scenario of the findBiggestNumber", dataProvider = "dataForFindBiggestNumber")
-    public void TestfindBiggestNumber(int t, int c) {
-        int actual = findBiggestNumber(t);
-        int expected = c;
-        assertEquals(actual, expected);
+    @DataProvider(name = "dataForFindBiggestNumberWithExc")
+    public Object[][] createDataForFindBiggestNumberWithExc(){
+        return new Object[][]{
+                {10155},
+                {123},
+                {1},
+                {-100},
+                {-15000}
+        };
+    }
+
+    @Test(description = "Positive scenario of the findBiggestNumber", dataProvider = "dataForFindBiggestNumberWithExc",
+            expectedExceptions = InputMismatchException.class,
+            expectedExceptionsMessageRegExp = "the password must have four digits")
+    public void TestfindBiggestNumberWithExc(int t) {
+        FindBiggestNumber find = new FindBiggestNumber();
+        find.findBiggestNumber(t);
     }
 }

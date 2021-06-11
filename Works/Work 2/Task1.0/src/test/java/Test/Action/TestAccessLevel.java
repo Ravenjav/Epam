@@ -1,5 +1,6 @@
 package Test.Action;
 
+import By.Epam.Traning.Service.AccessLevel;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
@@ -20,7 +21,8 @@ public class TestAccessLevel {
 
     @Test(description = "Positive scenario of the accessLevel", dataProvider = "dataForAccessLevel")
     public void testAccessLevel(int t, int c) {
-        int actual = accessLevel(t);
+        AccessLevel aL = new AccessLevel();
+        int actual = aL.accessLevel(t);
         int expected = c;
         assertEquals(actual, expected);
     }

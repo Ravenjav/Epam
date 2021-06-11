@@ -5,9 +5,9 @@ import org.apache.logging.log4j.core.Logger;
 
 public class EqualsDouble {
 
-    public static final Logger equalsDouble = (Logger) LogManager.getLogger(By.Epam.Traning.Service.EqualsDouble.class);
+    private static final Logger equalsDouble = (Logger) LogManager.getLogger(By.Epam.Traning.Service.EqualsDouble.class);
 
-    public static int equalsDouble(double x, double y){
+    public int equalsDouble(double x, double y){
         equalsDouble.info("Start of equalsDouble with x = " + x + " y = " + y);
         if (x < y) {
             equalsDouble.info("Access equalsDouble");

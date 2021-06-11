@@ -1,10 +1,9 @@
 package Test.Action;
 
+import By.Epam.Traning.Service.TemperatureAnalysis;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import static By.Epam.Traning.Service.SimpleIf.simpleIf;
-import static By.Epam.Traning.Service.TemperatureAnalysis.temperatureAnalysis;
 import static org.testng.Assert.assertEquals;
 
 public class TestTemperatureAnalysis {
@@ -21,7 +20,8 @@ public class TestTemperatureAnalysis {
 
     @Test(description = "Positive scenario of the temperatureAnalysis", dataProvider = "dataForTemperatureAnalysis")
     public void testTemperatureAnalysis(double t, boolean c) {
-        boolean actual = temperatureAnalysis(t);
+        TemperatureAnalysis tA = new TemperatureAnalysis();
+        boolean actual = tA.temperatureAnalysis(t);
         boolean expected = c;
         assertEquals(actual, expected);
     }

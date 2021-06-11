@@ -1,9 +1,9 @@
 package Test.Action;
 
+import By.Epam.Traning.Service.SimpleIf;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import static By.Epam.Traning.Service.SimpleIf.simpleIf;
 import static org.testng.Assert.assertEquals;
 
 public class TestSimpleIf {
@@ -20,7 +20,8 @@ public class TestSimpleIf {
 
     @Test(description = "Positive scenario of the simpleIf", dataProvider = "dataForSimpleIf")
     public void testSimpleIf(int xy[], int c) {
-        int actual = simpleIf(xy[0], xy[1]);
+        SimpleIf sI = new SimpleIf();
+        int actual = sI.simpleIf(xy[0], xy[1]);
         int expected = c;
         assertEquals(actual, expected);
     }

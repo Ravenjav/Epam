@@ -1,9 +1,9 @@
 package Test.Action;
 
+import By.Epam.Traning.Service.EqualsDouble;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import static By.Epam.Traning.Service.EqualsDouble.equalsDouble;
 import static org.testng.Assert.assertEquals;
 
 public class TestEqualsDouble {
@@ -19,7 +19,8 @@ public class TestEqualsDouble {
 
     @Test(description = "Positive scenario of the EqualsDouble", dataProvider = "dataForEqualsDouble")
     public void testEqualsDouble(double xy[], double c) {
-        double actual = equalsDouble(xy[0], xy[1]);
+        EqualsDouble eD = new EqualsDouble();
+        double actual = eD.equalsDouble(xy[0], xy[1]);
         double expected = c;
         assertEquals(actual, expected);
     }

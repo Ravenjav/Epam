@@ -35,7 +35,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="TestNG.SimpleOperationsTest.testSumWithExc">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="By.Epam.Traning.Control.Main" />
       <module name="Task1.0" />
@@ -66,24 +66,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleOperationsTest.sumTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Task1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tests.Action.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tests.Action" />
-      <option name="MAIN_CLASS_NAME" value="Tests.Action.SimpleOperationsTest" />
-      <option name="METHOD_NAME" value="sumTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SimpleOperationsTest.testDivWith0" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Task1.0" />
       <extension name="coverage">
@@ -95,6 +77,24 @@
       <option name="PACKAGE_NAME" value="Tests.Action" />
       <option name="MAIN_CLASS_NAME" value="Tests.Action.SimpleOperationsTest" />
       <option name="METHOD_NAME" value="testDivWith0" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleOperationsTest.testMultWithExc" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.Action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests.Action" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Action.SimpleOperationsTest" />
+      <option name="METHOD_NAME" value="testMultWithExc" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SimpleOperationsTest.testSumWithExc" />
+        <item itemvalue="TestNG.SimpleOperationsTest.testMultWithExc" />
         <item itemvalue="Application.Main" />
         <item itemvalue="TestNG.SimpleOperationsTest" />
-        <item itemvalue="TestNG.SimpleOperationsTest.testSumWithExc" />
         <item itemvalue="TestNG.SimpleOperationsTest.testDivWith0" />
-        <item itemvalue="TestNG.SimpleOperationsTest.sumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -156,10 +156,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Project_Structure" timestamp="1621784422515">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1623431524320">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1621784422515" />
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1623431524320" />
     <state x="403" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622079570959">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -168,26 +168,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1621781565003" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1622079446231">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1623170019043">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622079446231" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1622310196197">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623170019043" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1623434244044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622310196197" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1622310196197">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623434244044" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1623434244044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622310196197" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1622310196197">
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623434244044" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1623434244044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622310196197" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1622310196197">
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623434244044" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1623434244044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622310196197" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623434244044" />
     <state width="1323" height="485" key="GridCell.Tab.1.bottom" timestamp="1622055771824">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -212,22 +212,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1621785489663" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1622079398622">
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1623169989776">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1622079398622" />
-    <state x="65" y="59" key="new project wizard" timestamp="1622079456062">
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1623169989776" />
+    <state x="65" y="59" key="new project wizard" timestamp="1623169995497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1622079456062" />
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1623169995497" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1621880985300">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1621880985300" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Task1_0$Main.ic" NAME="Main Coverage Results" MODIFIED="1622310153369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$Main.ic" NAME="Main Coverage Results" MODIFIED="1622567294110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>By.Epam.Traning.Control.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$SimpleOperationsTest_testMultWithExc.ic" NAME="SimpleOperationsTest.testMultWithExc Coverage Results" MODIFIED="1623432827871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Tests.Action.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$SimpleOperationsTest_sumTest.ic" NAME="SimpleOperationsTest.sumTest Coverage Results" MODIFIED="1621807394121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Tests.Action.*</FILTER>
@@ -235,7 +238,7 @@
     <SUITE FILE_PATH="coverage/Task1_0$SimpleOperationsTest_testDivWith0.ic" NAME="SimpleOperationsTest.testDivWith0 Coverage Results" MODIFIED="1621813378959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Tests.Action.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$SimpleOperationsTest_testSumWithExc.ic" NAME="SimpleOperationsTest.testSumWithExc Coverage Results" MODIFIED="1621877224053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$SimpleOperationsTest_testSumWithExc.ic" NAME="SimpleOperationsTest.testSumWithExc Coverage Results" MODIFIED="1623432866346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Tests.Action.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$SimpleOperationsTest.ic" NAME="SimpleOperationsTest Coverage Results" MODIFIED="1621881257648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
