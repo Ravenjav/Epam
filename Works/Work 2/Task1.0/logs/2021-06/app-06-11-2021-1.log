@@ -1,0 +1,331 @@
+2021-06-11 19:35:22,010 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1 n = 1
+2021-06-11 19:35:22,034 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 19:35:22,034 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1 n = 2
+2021-06-11 19:35:22,034 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 19:41:53,284 INFO By.Epam.Tran.Serv.SimpleFor [main] Start simpleFor
+2021-06-11 19:46:33,960 INFO By.Epam.Tran.Serv.SimpleFor [main] Start simpleFor
+2021-06-11 19:46:33,995 INFO By.Epam.Tran.Serv.SimpleFor [main] Access simpleFor
+2021-06-11 19:51:22,582 INFO By.Epam.Tran.Serv.SimpleFor [main] Start simpleFor
+2021-06-11 19:51:22,586 INFO By.Epam.Tran.Serv.SimpleFor [main] Access simpleFor
+2021-06-11 19:54:05,159 INFO By.Epam.Tran.Serv.SimpleFor [main] Start sumFor
+2021-06-11 19:54:05,163 INFO By.Epam.Tran.Serv.SimpleFor [main] Access sumFor
+2021-06-11 20:19:16,074 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 20:19:16,079 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:19:16,100 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 20:19:16,100 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:19:22,267 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 1
+2021-06-11 20:19:22,271 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:19:22,283 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 2
+2021-06-11 20:19:22,284 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:20:17,496 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 1
+2021-06-11 20:20:17,501 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:20:17,518 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 2
+2021-06-11 20:20:17,518 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:21:44,490 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 1
+2021-06-11 20:21:44,495 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:21:44,568 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 2
+2021-06-11 20:21:44,569 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:21:44,574 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 20:21:44,575 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:22:39,907 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 1
+2021-06-11 20:22:39,910 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:22:39,916 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 2
+2021-06-11 20:22:39,918 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:22:39,920 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 20:22:39,920 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:23:50,639 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 1
+2021-06-11 20:23:50,643 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:23:50,653 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 2
+2021-06-11 20:23:50,654 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:23:50,655 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 20:23:50,656 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:26:44,474 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 1
+2021-06-11 20:26:44,479 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:26:44,496 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 2
+2021-06-11 20:26:44,497 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:27:24,794 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 20:27:24,802 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:27:24,815 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 20:27:24,816 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:27:24,823 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 20:27:24,823 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:29:22,514 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 20:29:22,519 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:29:22,558 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 20:29:22,559 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:29:22,562 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 20:29:22,562 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:32:45,634 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 20:32:45,638 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:32:45,654 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 20:32:45,655 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:32:45,663 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 20:32:45,664 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:35:39,184 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 20:35:39,190 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:35:39,216 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 20:35:39,216 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:35:39,223 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 20:35:39,223 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:36:51,092 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 20:36:51,096 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:36:51,131 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 20:36:51,132 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:36:51,135 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 20:36:51,135 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:37:56,688 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 20:37:56,692 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:37:56,702 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 20:37:56,702 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:37:56,708 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 20:37:56,709 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 20:48:45,149 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 2
+2021-06-11 20:48:45,154 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:48:45,164 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 3
+2021-06-11 20:48:45,164 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:48:45,165 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 1
+2021-06-11 20:48:45,166 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:48:45,167 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 0
+2021-06-11 20:48:45,167 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:48:45,174 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 150
+2021-06-11 20:48:45,174 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:48:45,189 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 500
+2021-06-11 20:48:45,190 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:48:45,192 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 300
+2021-06-11 20:48:45,192 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:48:45,194 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 150
+2021-06-11 20:48:45,194 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:49:21,781 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 150
+2021-06-11 20:49:21,784 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:49:49,257 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 150
+2021-06-11 20:49:49,260 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:50:08,444 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 100
+2021-06-11 20:50:08,449 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:50:24,459 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 10
+2021-06-11 20:50:24,464 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:50:26,751 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 10
+2021-06-11 20:50:26,756 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:53:35,734 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 15
+2021-06-11 20:53:35,737 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:53:51,672 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 20
+2021-06-11 20:53:51,675 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:54:07,119 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 19
+2021-06-11 20:54:07,123 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:58:22,426 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 150
+2021-06-11 20:58:22,433 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 20:58:22,433 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:58:22,443 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 500
+2021-06-11 20:58:22,443 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 20:58:22,444 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:58:22,448 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 300
+2021-06-11 20:58:22,448 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 20:58:22,448 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:58:22,451 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 150
+2021-06-11 20:58:22,452 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 20:58:22,452 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:20,349 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 150
+2021-06-11 20:59:20,353 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 20:59:20,353 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:20,365 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 500
+2021-06-11 20:59:20,365 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 20:59:20,366 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:20,377 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 300
+2021-06-11 20:59:20,377 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 20:59:20,377 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:20,380 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 150
+2021-06-11 20:59:20,380 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 20:59:20,380 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:40,617 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -150
+2021-06-11 20:59:40,633 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 20:59:40,633 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:40,636 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -500
+2021-06-11 20:59:40,637 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 20:59:40,637 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:40,642 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -300
+2021-06-11 20:59:40,643 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 20:59:40,644 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:40,645 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -20
+2021-06-11 20:59:40,646 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 20:59:40,646 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:54,353 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 2
+2021-06-11 20:59:54,357 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:59:54,363 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 3
+2021-06-11 20:59:54,365 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:59:54,365 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 1
+2021-06-11 20:59:54,365 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:59:54,367 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 0
+2021-06-11 20:59:54,367 INFO By.Epam.Tran.Serv.Factorial [main] Access factorial
+2021-06-11 20:59:54,369 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 150
+2021-06-11 20:59:54,369 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 20:59:54,370 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:54,373 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 500
+2021-06-11 20:59:54,375 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 20:59:54,375 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:54,376 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 300
+2021-06-11 20:59:54,376 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 20:59:54,376 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:54,377 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 25
+2021-06-11 20:59:54,377 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 20:59:54,377 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:54,390 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -15
+2021-06-11 20:59:54,390 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 20:59:54,390 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:54,391 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -500
+2021-06-11 20:59:54,392 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 20:59:54,392 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:54,393 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -300
+2021-06-11 20:59:54,393 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 20:59:54,393 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 20:59:54,394 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -20
+2021-06-11 20:59:54,394 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 20:59:54,394 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 21:14:37,499 INFO By.Epam.Tran.Serv.FindBiggestNumber [main] Start findBiggestNumber with num = 10155
+2021-06-11 21:14:37,511 ERROR By.Epam.Tran.Serv.FindBiggestNumber [main] the password have more or less digits
+2021-06-11 21:14:37,511 INFO By.Epam.Tran.Serv.FindBiggestNumber [main] -------------------------------
+2021-06-11 21:14:37,514 INFO By.Epam.Tran.Serv.FindBiggestNumber [main] Start findBiggestNumber with num = 123
+2021-06-11 21:14:37,514 ERROR By.Epam.Tran.Serv.FindBiggestNumber [main] the password have more or less digits
+2021-06-11 21:14:37,515 INFO By.Epam.Tran.Serv.FindBiggestNumber [main] -------------------------------
+2021-06-11 21:14:37,516 INFO By.Epam.Tran.Serv.FindBiggestNumber [main] Start findBiggestNumber with num = 1
+2021-06-11 21:14:37,516 ERROR By.Epam.Tran.Serv.FindBiggestNumber [main] the password have more or less digits
+2021-06-11 21:14:37,517 INFO By.Epam.Tran.Serv.FindBiggestNumber [main] -------------------------------
+2021-06-11 21:14:37,520 INFO By.Epam.Tran.Serv.FindBiggestNumber [main] Start findBiggestNumber with num = -100
+2021-06-11 21:14:37,520 ERROR By.Epam.Tran.Serv.FindBiggestNumber [main] the password have more or less digits
+2021-06-11 21:14:37,521 INFO By.Epam.Tran.Serv.FindBiggestNumber [main] -------------------------------
+2021-06-11 21:14:37,522 INFO By.Epam.Tran.Serv.FindBiggestNumber [main] Start findBiggestNumber with num = -15000
+2021-06-11 21:14:37,524 ERROR By.Epam.Tran.Serv.FindBiggestNumber [main] the password have more or less digits
+2021-06-11 21:14:37,525 INFO By.Epam.Tran.Serv.FindBiggestNumber [main] -------------------------------
+2021-06-11 21:16:31,240 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -15
+2021-06-11 21:16:31,245 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 21:16:31,245 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 21:16:31,266 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -500
+2021-06-11 21:16:31,266 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 21:16:31,267 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 21:16:31,268 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -300
+2021-06-11 21:16:31,268 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 21:16:31,268 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 21:16:31,274 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -20
+2021-06-11 21:16:31,274 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 21:16:31,274 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 21:16:59,866 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -15
+2021-06-11 21:16:59,871 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 21:16:59,871 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 21:16:59,876 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -500
+2021-06-11 21:16:59,876 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 21:16:59,877 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 21:16:59,878 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -300
+2021-06-11 21:16:59,879 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 21:16:59,879 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 21:16:59,880 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = -20
+2021-06-11 21:16:59,881 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, negative value
+2021-06-11 21:16:59,881 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 21:19:21,717 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 21:19:21,724 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:19:21,750 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 21:19:21,751 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:19:21,756 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 21:19:21,756 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:20:09,483 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 21:20:09,487 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:20:09,487 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:20:09,492 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 21:20:09,493 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:20:09,493 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:20:09,495 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 21:20:09,499 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:20:09,499 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:22:34,519 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 21:22:34,524 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:22:34,524 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:22:34,528 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 21:22:34,529 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:22:34,529 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:22:34,531 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 21:22:34,531 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:22:34,531 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:23:15,744 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 21:23:15,749 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:23:15,749 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:23:15,753 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 21:23:15,754 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:23:15,754 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:23:15,755 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 21:23:15,756 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:23:15,756 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:23:56,259 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 21:23:56,264 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:23:56,276 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 21:23:56,277 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:23:56,289 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 21:23:56,290 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:24:47,604 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 1
+2021-06-11 21:24:47,609 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:24:47,620 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.0 n = 2
+2021-06-11 21:24:47,623 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:25:02,949 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 21:25:02,960 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:25:02,976 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 21:25:02,977 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:25:02,984 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 21:25:02,984 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:26:35,115 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 21:26:35,120 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:26:35,130 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 21:26:35,131 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:26:35,136 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 21:26:35,137 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:26:37,898 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 21:26:37,901 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:26:37,909 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 21:26:37,909 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:26:37,913 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 21:26:37,913 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:27:19,955 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 21:27:19,965 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:27:19,982 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 21:27:19,983 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:27:19,989 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 21:27:19,989 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:27:19,996 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 100000
+2021-06-11 21:27:19,997 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:28:55,108 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 1
+2021-06-11 21:28:55,113 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:28:55,123 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 21:28:55,123 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:28:55,124 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:28:55,126 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 21:28:55,126 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:28:55,129 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:28:55,130 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 100000
+2021-06-11 21:28:55,131 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:28:55,131 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:29:39,128 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 4
+2021-06-11 21:29:39,133 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:29:39,133 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:29:39,136 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 2
+2021-06-11 21:29:39,137 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:29:39,137 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:29:39,139 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 1.7976931348623157E308 n = 100000
+2021-06-11 21:29:39,140 ERROR By.Epam.Tran.Serv.SimpleFor [main] Error in multForAToN, type overflow
+2021-06-11 21:29:39,140 INFO By.Epam.Tran.Serv.SimpleFor [main] -------------------------------
+2021-06-11 21:31:30,553 INFO By.Epam.Tran.Cont.Controller [main] Access start program
+2021-06-11 21:35:32,393 INFO By.Epam.Tran.Cont.Controller [main] Access start program
+2021-06-11 21:35:58,762 INFO By.Epam.Tran.Serv.EqualsDouble [main] Start of equalsDouble with x = 10.0 y = 5.0
+2021-06-11 21:35:58,762 INFO By.Epam.Tran.Serv.EqualsDouble [main] Access equalsDouble
+2021-06-11 21:37:31,139 INFO By.Epam.Tran.Serv.Equals3Double [main] Start equals3Double with a =10.0 b = 10.0 c = 10.0
+2021-06-11 21:37:31,140 INFO By.Epam.Tran.Serv.Equals3Double [main] Done equals3Double
+2021-06-11 21:38:12,330 INFO By.Epam.Tran.Serv.SimpleIf [main] Start simpleIf with x = 2 y = 3
+2021-06-11 21:38:12,330 INFO By.Epam.Tran.Serv.SimpleIf [main] Done simpleIf
+2021-06-11 21:38:34,406 INFO By.Epam.Tran.Serv.TemperatureAnalysis [main] Start equals3Double with t = 78.0
+2021-06-11 21:38:34,406 INFO By.Epam.Tran.Serv.TemperatureAnalysis [main] Done equals3Double
+2021-06-11 21:38:39,825 INFO By.Epam.Tran.Serv.AccessLevel [main] Start equals3Double with x = 2345
+2021-06-11 21:38:39,825 INFO By.Epam.Tran.Serv.AccessLevel [main] Done equals3Double
+2021-06-11 21:38:39,826 INFO By.Epam.Tran.Serv.SimpleFor [main] Start simpleFor
+2021-06-11 21:38:39,826 INFO By.Epam.Tran.Serv.SimpleFor [main] Access simpleFor
+2021-06-11 21:38:39,826 INFO By.Epam.Tran.Serv.SimpleFor [main] Start sumFor
+2021-06-11 21:38:39,826 INFO By.Epam.Tran.Serv.SimpleFor [main] Access sumFor
+2021-06-11 21:39:33,308 INFO By.Epam.Tran.Serv.SimpleFor [main] Start multForAToN with a = 15.0 n = 5
+2021-06-11 21:39:33,309 INFO By.Epam.Tran.Serv.SimpleFor [main] Access multForAToN
+2021-06-11 21:40:28,924 INFO By.Epam.Tran.Serv.Factorial [main] Start of factorial with n = 3456
+2021-06-11 21:40:28,925 ERROR By.Epam.Tran.Serv.Factorial [main] Error in multForAToN, type overflow
+2021-06-11 21:40:28,925 INFO By.Epam.Tran.Serv.Factorial [main] -------------------------------
+2021-06-11 21:44:10,725 INFO By.Epam.Tran.Cont.Controller [main] Access start program

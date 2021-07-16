@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4865fdf7-0647-45e8-9509-977f8d64c837" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="181" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1v6e8dkio2znIqGZG1cs9aH4jel" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Git-Rep\Epam\Works\Work 4\Task1.0\src\main\resources\langs" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.epam.traning.service.exception" />
+      <recent name="by.epam.traning.control" />
+      <recent name="by.epam.traning.textManeger" />
+      <recent name="by.epam.traning.dataAccess.exception" />
+      <recent name="by.epam.traning.dataAccess.imp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Git-Rep\Epam\Works\Work 4\Task1.0\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.traning.control.Main" />
+      <module name="Task1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.traning.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.action" />
+      <option name="MAIN_CLASS_NAME" value="test.action.SortTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest.testPosEatingSort" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.action" />
+      <option name="MAIN_CLASS_NAME" value="test.action.SortTest" />
+      <option name="METHOD_NAME" value="testPosEatingSort" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest.testPosTransportSort" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.action" />
+      <option name="MAIN_CLASS_NAME" value="test.action.SortTest" />
+      <option name="METHOD_NAME" value="testPosTransportSort" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest.testPosTypeSort" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.action" />
+      <option name="MAIN_CLASS_NAME" value="test.action.SortTest" />
+      <option name="METHOD_NAME" value="testPosTypeSort" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.SortTest.testPosTransportSort" />
+        <item itemvalue="TestNG.SortTest" />
+        <item itemvalue="TestNG.SortTest.testPosEatingSort" />
+        <item itemvalue="TestNG.SortTest.testPosTypeSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4865fdf7-0647-45e8-9509-977f8d64c837" name="Default Changelist" comment="" />
+      <created>1625886807865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625886807865</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1625887638874">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1625887638874" />
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1626437737297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1626437737297" />
+    <state x="344" y="279" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1625886896832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="344" y="279" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1625886896832" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626436217995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1626436217995" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1626447072163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1626447072163" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1626451126205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1626451126205" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1626451126205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1626451126205" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1626451126205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1626451126205" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1626451126205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1626451126205" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1625887628049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1625887628049" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Task1_0$Main.ic" NAME="Main Coverage Results" MODIFIED="1626446985547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>by.epam.traning.control.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$SortTest.ic" NAME="SortTest Coverage Results" MODIFIED="1626440952796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$SortTest_testPosEatingSort.ic" NAME="SortTest.testPosEatingSort Coverage Results" MODIFIED="1626440945200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$SortTest_testPosTransportSort.ic" NAME="SortTest.testPosTransportSort Coverage Results" MODIFIED="1626440984238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$SortTest_testPosTypeSort.ic" NAME="SortTest.testPosTypeSort Coverage Results" MODIFIED="1626440816339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+2021-07-10 02:12:43,554 INFO By.Epa.Tra.ser.mas.BubbleSort [main] Sorting completed successfully
+2021-07-10 02:14:28,728 INFO By.Epa.Tra.ser.mas.BubbleSort [main] Sorting completed successfully
+2021-07-10 02:14:46,541 INFO By.Epa.Tra.ser.mas.BubbleSort [main] Sorting completed successfully
+2021-07-10 05:22:20,020 ERROR By.Epa.Tra.dat.imp.MasFileReader [main] FIle note found
+2021-07-10 05:22:20,023 ERROR By.Epa.Tra.con.com.Controller [main] Fail file reading, stop program
+2021-07-10 05:25:12,550 INFO By.Epa.Tra.dat.imp.MasFileReader [main] Access file reading
+2021-07-10 07:49:24,058 INFO By.Epa.Tra.dat.imp.MasFileReader [main] Access file reading

@@ -29,7 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Work 1/Task1.0" />
+    <property name="last_opened_file_path" value="F:/Курсы/Задания/№3 и 4/task03-Arrays" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -40,7 +40,7 @@
       <recent name="F:\Git-Rep\Epam\Works\Work 2\Task1.0\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Qest (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="By.Epam.Traning.Control.Main" />
       <module name="Task1.0" />
@@ -54,7 +54,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFactorial.testFactorialWithExc0" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Qest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Qest" />
+      <module name="Task1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="By.Epam.Traning.Control.Qest" />
+      <module name="Task1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="By.Epam.Traning.Control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAccessLevel.testAccessLevel" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Task1.0" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +83,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Test.Action" />
-      <option name="MAIN_CLASS_NAME" value="Test.Action.TestFactorial" />
-      <option name="METHOD_NAME" value="testFactorialWithExc0" />
+      <option name="MAIN_CLASS_NAME" value="Test.Action.TestAccessLevel" />
+      <option name="METHOD_NAME" value="testAccessLevel" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -72,7 +92,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFindBiggestNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestEqualsDouble.testEqualsDouble" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Task1.0" />
       <extension name="coverage">
         <pattern>
@@ -81,43 +101,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Test.Action" />
-      <option name="MAIN_CLASS_NAME" value="Test.Action.TestFindBiggestNumber" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSimpleFor.testMultForAToN" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Task1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.Action.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Test.Action" />
-      <option name="MAIN_CLASS_NAME" value="Test.Action.TestSimpleFor" />
-      <option name="METHOD_NAME" value="testMultForAToN" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSimpleFor.testMultForAToNWithExc" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Task1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Test.Action.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Test.Action" />
-      <option name="MAIN_CLASS_NAME" value="Test.Action.TestSimpleFor" />
-      <option name="METHOD_NAME" value="testMultForAToNWithExc" />
+      <option name="MAIN_CLASS_NAME" value="Test.Action.TestEqualsDouble" />
+      <option name="METHOD_NAME" value="testEqualsDouble" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -127,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Qest (1)" />
+        <item itemvalue="Application.Qest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="TestNG.TestSimpleFor.testMultForAToNWithExc" />
-        <item itemvalue="TestNG.TestSimpleFor.testMultForAToN" />
-        <item itemvalue="TestNG.TestFactorial.testFactorialWithExc0" />
-        <item itemvalue="TestNG.TestFindBiggestNumber" />
+        <item itemvalue="TestNG.TestAccessLevel.testAccessLevel" />
+        <item itemvalue="TestNG.TestEqualsDouble.testEqualsDouble" />
       </list>
     </recent_temporary>
   </component>
@@ -181,54 +166,58 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1623430021714" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1623437989955">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1625876527517">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623437989955" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1623437055350">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1625876527517" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1623609623927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623437055350" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1623437055349">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623609623927" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1623609623926">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623437055349" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1623437055349">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623609623926" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1623609623926">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623437055349" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1623437055349">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623609623926" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1623609623926">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623437055349" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1623437055350">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623609623926" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1623440778945">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623437055350" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1623437055350">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623440778945" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1623440778945">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1623437055350" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1623437055350">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1623440778945" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1623440778945">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1623437055350" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1623437055350">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1623440778945" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1623440778945">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1623437055350" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1623440778945" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1623437098847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1623437098847" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1622566225814">
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1624461953430">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1622566225814" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1624461953430" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623437066247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1623437066247" />
+    <state x="65" y="59" key="new project wizard" timestamp="1623947334490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1623947334490" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1622405753439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -239,7 +228,7 @@
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1622405750530" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Task1_0$Main.ic" NAME="Main Coverage Results" MODIFIED="1623436530795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$Main.ic" NAME="Main Coverage Results" MODIFIED="1623608380447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>By.Epam.Traning.Control.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$TestFindBiggestNumber.ic" NAME="TestFindBiggestNumber Coverage Results" MODIFIED="1623435275865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -269,13 +258,19 @@
     <SUITE FILE_PATH="coverage/Task1_0$TestSimpleFor.ic" NAME="TestSimpleFor Coverage Results" MODIFIED="1623429319082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.Action.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$TestAccessLevel.ic" NAME="TestAccessLevel Coverage Results" MODIFIED="1622406945848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$TestAccessLevel.ic" NAME="TestAccessLevel Coverage Results" MODIFIED="1623608226666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.Action.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$TestFactorial.ic" NAME="TestFactorial Coverage Results" MODIFIED="1623434392477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.Action.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$TestEqualsDouble_testEqualsDouble.ic" NAME="TestEqualsDouble.testEqualsDouble Coverage Results" MODIFIED="1623608246842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test.Action.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$TestSimpleIf.ic" NAME="TestSimpleIf Coverage Results" MODIFIED="1622406406032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test.Action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$TestAccessLevel_testAccessLevel.ic" NAME="TestAccessLevel.testAccessLevel Coverage Results" MODIFIED="1623608323618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.Action.*</FILTER>
     </SUITE>
   </component>

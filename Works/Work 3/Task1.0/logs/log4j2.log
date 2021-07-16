@@ -1,0 +1,77 @@
+2021-07-16 01:42:05,764 INFO By.Epa.Tra.ser.mas.BubbleSort [main] Sorting completed successfully
+2021-07-16 01:44:31,024 INFO By.Epa.Tra.ser.mas.BubbleSort [main] Sorting completed successfully
+2021-07-16 02:11:26,684 INFO By.Epa.Tra.ser.mas.BubbleSort [main] Sorting completed successfully
+2021-07-16 02:12:04,724 INFO By.Epa.Tra.ser.mas.BubbleSort [main] Sorting completed successfully
+2021-07-16 09:20:43,234 ERROR By.Epa.Tra.con.com.CommandProvider [main] No enum constant By.Epam.Traning.control.command.CommandName.BUBBLE_SORT
+2021-07-16 09:20:43,238 ERROR By.Epa.Tra.con.com.CommandProvider [main] No enum constant By.Epam.Traning.control.command.CommandName.BUBBLE_SORT
+2021-07-16 09:20:43,238 ERROR By.Epa.Tra.con.com.CommandProvider [main] No enum constant By.Epam.Traning.control.command.CommandName.BUBBLE_SORT
+2021-07-16 09:20:43,239 ERROR By.Epa.Tra.con.com.CommandProvider [main] No enum constant By.Epam.Traning.control.command.CommandName.BUBBLE_SORT
+2021-07-16 09:20:43,240 ERROR By.Epa.Tra.con.com.CommandProvider [main] No enum constant By.Epam.Traning.control.command.CommandName.BUBBLE_SORT
+2021-07-16 09:20:43,240 ERROR By.Epa.Tra.con.com.CommandProvider [main] No enum constant By.Epam.Traning.control.command.CommandName.BUBBLE_SORT
+2021-07-16 09:30:21,548 ERROR By.Epa.Tra.con.com.CommandProvider [main] Wrong input format
+2021-07-16 09:30:22,993 ERROR By.Epa.Tra.con.com.CommandProvider [main] No enum constant By.Epam.Traning.control.command.CommandName.BUBBLE_SORT
+2021-07-16 09:42:27,020 ERROR By.Epa.Tra.con.com.CommandProvider [main] Wrong input format
+2021-07-16 09:43:52,706 ERROR By.Epa.Tra.con.com.CommandProvider [main] Wrong input format
+2021-07-16 09:49:04,718 ERROR By.Epa.Tra.con.com.CommandProvider [main] Wrong input formatMas.FileReader
+2021-07-16 10:01:46,718 INFO By.Epa.Tra.dat.MasFileReader [main] Access file reading
+2021-07-16 10:03:28,013 INFO By.Epa.Tra.dat.MasFileReader [main] Access file reading
+2021-07-16 10:05:16,163 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 10:05:23,918 INFO By.Epa.Tra.ser.mas.BubbleSort [main] Sorting completed successfully
+2021-07-16 10:06:00,783 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 10:06:02,345 INFO By.Epa.Tra.ser.mas.BubbleSort [main] Sorting completed successfully
+2021-07-16 11:39:11,692 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 11:39:43,824 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 11:40:51,140 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 11:47:52,134 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 11:49:22,582 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 11:51:05,552 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 11:56:09,563 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 12:26:00,421 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:29:05,379 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:31:15,232 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:31:16,693 INFO By.Epa.Tra.ser.mas.ChoseSort [main] Sorting completed successfully
+2021-07-16 12:36:52,277 ERROR By.Epa.Tra.con.com.CommandProvider [main] Неверный формат вводаMat.FileReader
+2021-07-16 12:38:13,754 ERROR By.Epa.Tra.con.com.CommandProvider [main] Неверный формат ввода Mat.FileReader
+2021-07-16 12:39:57,677 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:39:57,683 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:49:47,120 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:49:47,125 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:49:49,143 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 12:51:32,747 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:51:32,750 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:51:34,206 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 12:54:00,880 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:54:00,884 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:54:02,030 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 12:55:08,600 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:55:08,603 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:55:09,832 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 12:57:34,813 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:57:34,817 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:57:39,137 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 12:59:37,497 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 12:59:37,502 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:01:01,586 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:01:01,591 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:02:27,286 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:02:27,290 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:03:47,179 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:03:47,185 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:04:49,440 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:04:49,444 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:06:15,477 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:06:15,483 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:07:20,267 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:07:20,271 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:08:45,072 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:08:45,076 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:12:41,994 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:12:41,997 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:12:49,954 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 13:13:29,513 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:13:29,517 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 13:13:31,327 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 14:47:24,854 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 14:47:24,858 INFO By.Epa.Tra.dat.MasFileReader [main] Success file reading
+2021-07-16 14:47:25,824 INFO By.Epa.Tra.ser.mat.Sum [main] Completed successfully
+2021-07-16 19:48:43,963 INFO By.Epa.Tra.ser.mas.BubbleSort [main] Sorting completed successfully

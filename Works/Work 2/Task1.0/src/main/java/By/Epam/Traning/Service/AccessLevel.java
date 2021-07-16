@@ -9,6 +9,19 @@ public class AccessLevel {
 
     public char accessLevel(int x){
         accessLevel.info("Start equals3Double with x = " + x);
+        /*switch (x) {
+            case 9583:
+            case 1747:
+                accessLevel.info("Done equals3Double");
+                return 'A';
+            break;
+            case 3331:
+                case 7922:
+                accessLevel.info("Done equals3Double");
+                return 'B';
+                break;
+                case
+        }*/
         if (x == 9583 || x == 1747){
             accessLevel.info("Done equals3Double");
             return 'A';

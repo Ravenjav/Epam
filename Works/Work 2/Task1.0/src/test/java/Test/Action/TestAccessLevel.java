@@ -11,16 +11,16 @@ public class TestAccessLevel {
     @DataProvider(name = "dataForAccessLevel")
     public Object[][] createDataForAccessLevel(){
         return new Object[][]{
-                {9583, 1},
-                {3331, 2},
-                {9455, 3},
-                {0, 0},
-                {5342, 0}
+                {9583, 'A'},
+                {3331, 'B'},
+                {9455, 'C'},
+                {0, 'Z'},
+                {5342, 'Z'}
         };
     }
 
     @Test(description = "Positive scenario of the accessLevel", dataProvider = "dataForAccessLevel")
-    public void testAccessLevel(int t, int c) {
+    public void testAccessLevel(int t, char c) {
         AccessLevel aL = new AccessLevel();
         int actual = aL.accessLevel(t);
         int expected = c;

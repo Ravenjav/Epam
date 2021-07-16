@@ -1,0 +1,7 @@
+2021-07-16 17:09:01,612 ERROR by.epa.tra.con.com.CommandProvider [main] No enum constant by.epam.traning.control.comand.CommandName.SHOW_VOUCHERS
+2021-07-16 17:18:09,944 ERROR by.epa.tra.con.Main [main] Wrong format
+2021-07-16 17:33:19,255 INFO by.epa.tra.dat.FileReader [main] Access file reading
+2021-07-16 17:42:56,232 INFO by.epa.tra.dat.FileReader [main] Access file reading
+2021-07-16 17:45:10,017 INFO by.epa.tra.dat.FileReader [main] Access file reading
+2021-07-16 17:46:35,648 INFO by.epa.tra.dat.FileReader [main] Access file reading
+2021-07-16 17:49:50,276 INFO by.epa.tra.dat.FileReader [main] Access file reading

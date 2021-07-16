@@ -32,11 +32,6 @@ public class SimpleFor {
     public double multForAToN(double a, int n){
         simpleFor.info("Start multForAToN with a = " + a + " n = " + n);
         double answer = 1;
-        if ( a + n - 0.5 == Double.POSITIVE_INFINITY || a + n - 0.5 == Double.NEGATIVE_INFINITY){
-            simpleFor.error("Error in multForAToN, type overflow");
-            simpleFor.info("-------------------------------");
-            throw new IllegalArgumentException("type overflow");
-        }
         for (double i = 0; i < n; i++){
             answer *= (a + i);
             System.out.println(answer);

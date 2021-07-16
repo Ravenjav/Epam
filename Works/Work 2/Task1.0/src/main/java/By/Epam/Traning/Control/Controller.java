@@ -9,10 +9,10 @@ import org.apache.logging.log4j.Logger;
 
 public class Controller {
 
-    private static final Logger controller = LogManager.getLogger(By.Epam.Traning.Control.Controller.class);
+    private static final Logger LOGGER = LogManager.getLogger(Controller.class);
 
     public void start(){
-        controller.info("Access start program");
+        LOGGER.info("Access start program");
 
         ConsoleIn inData = new ConsoleIn();
         ConsoleOut outData = new ConsoleOut();
@@ -36,8 +36,8 @@ public class Controller {
         /** Task 2.17 */
         SimpleIf sI = new SimpleIf();
         outData.outString("Введите два числа(Task 2.17)");
-        int x = sI.simpleIf(inData.scanInt(), inData.scanInt());
-        outData.outString(x + " " + x);
+        int temp = sI.simpleIf(inData.scanInt(), inData.scanInt());
+        outData.outString(temp + " " + temp);
 
         /** Task 2.25 */
         TemperatureAnalysis tA = new TemperatureAnalysis();

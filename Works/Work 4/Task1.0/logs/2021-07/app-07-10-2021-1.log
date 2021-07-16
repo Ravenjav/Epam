@@ -1,0 +1,21 @@
+2021-07-10 07:46:11,618 ERROR by.epa.tra.dat.imp.FileReader [main] FIle note found
+2021-07-10 07:46:11,625 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 07:47:25,395 ERROR by.epa.tra.dat.imp.FileReader [main] FIle note found
+2021-07-10 07:47:25,399 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 07:48:40,318 ERROR by.epa.tra.dat.imp.FileReader [main] FIle note found
+2021-07-10 07:48:40,322 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 07:50:23,613 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 07:50:48,868 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 07:52:25,209 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 07:53:35,641 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 07:54:51,917 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 07:55:56,308 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 07:57:13,559 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 07:58:11,628 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 08:00:03,226 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 08:02:59,196 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 08:03:25,101 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 08:04:14,066 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 08:04:30,075 ERROR by.epa.tra.con.Main [main] Fail file reading, stop program
+2021-07-10 08:06:49,424 INFO by.epa.tra.dat.imp.FileReader [main] Access file reading
+2021-07-10 08:08:19,307 INFO by.epa.tra.dat.imp.FileReader [main] Access file reading
