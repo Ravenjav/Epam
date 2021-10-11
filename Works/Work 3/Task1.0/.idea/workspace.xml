@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8414b99-aca7-4920-99da-3a3763928617" name="Default Changelist" comment="" />
+    <list default="true" id="a8414b99-aca7-4920-99da-3a3763928617" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 5/Task1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/Task 1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 7/Task2.0/Task2.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 9/Task1.0/Task1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 9/Task2.0/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 9/Task2.0/Task2.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 9/Task2.0/src/main/resources/lang.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 9/Task2.0/src/main/resources/lang_En_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 9/Task2.0/src/main/resources/lang_Ru_BY.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Task1.0.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 4/Task1.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 4/Task1.0/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,16 +44,22 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Work 4/Task1.0" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -56,7 +80,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSortTest.testPosSortInsertV2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BubbleSortTest.testPosSortInsertV2" type="TestNG" nameIsGenerated="true">
       <module name="Task1.0" />
       <extension name="coverage">
         <pattern>
@@ -130,7 +154,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.BubbleSortTest.testPosSortInsertV2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="TestNG.MultTest.testPosSortInsert" />
         <item itemvalue="TestNG.SubTest.testPosSortInsert" />
@@ -150,6 +173,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -160,98 +184,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624294582536</updated>
+      <workItem from="1631918357880" duration="1773000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="400" y="18" key="#Main" timestamp="1626430296118">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1631919902821">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="400" y="18" key="#Main/0.0.1366.728@0.0.1366.728" timestamp="1626430296118" />
-    <state x="275" y="22" key="#Project_Structure" timestamp="1625863784440">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1625863784440" />
-    <state x="87" y="98" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1625872115635">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="87" y="98" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1625872115635" />
-    <state x="453" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1626426055520">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="453" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1626426055520" />
-    <state x="321" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1626430875655">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="321" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1626430875655" />
-    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1625867894369">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1625867894369" />
-    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1626420548109">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1626420548109" />
-    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1625878404415">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1625878404415" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1626451555600">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1626451555600" />
-    <state width="1323" height="215" key="GridCell.Tab.0.bottom" timestamp="1626451129228">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="215" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1626451129228" />
-    <state width="1323" height="215" key="GridCell.Tab.0.center" timestamp="1626451129227">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="215" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1626451129227" />
-    <state width="1323" height="215" key="GridCell.Tab.0.left" timestamp="1626451129227">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="215" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1626451129227" />
-    <state width="1323" height="215" key="GridCell.Tab.0.right" timestamp="1626451129228">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="215" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1626451129228" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1625871592929">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625871592929" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1625871592929">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1625871592929" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1625871592929">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1625871592929" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1625871592929">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1625871592929" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1625880763298">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1625880763298" />
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1626047828841">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1626047828841" />
-    <state x="454" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1625869930898">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="454" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1625869930898" />
-    <state x="65" y="0" key="new project wizard" timestamp="1625886807822">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1625886807822" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1626398927418">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1626398927418" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1631919902821" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Task1_0$ChoseSortTest_testPosSortInsert.ic" NAME="ChoseSortTest.testPosSortInsert Coverage Results" MODIFIED="1625871870852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -263,16 +220,16 @@
     <SUITE FILE_PATH="coverage/Task1_0$InsertSortTest.ic" NAME="InsertSortTest Coverage Results" MODIFIED="1626390662358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.action.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$HashSortTest.ic" NAME="HashSortTest Coverage Results" MODIFIED="1626389357304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.action.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$SumTest_testPosSortInsert.ic" NAME="SumTest.testPosSortInsert Coverage Results" MODIFIED="1626424748699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.action.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$MergerSortTest.ic" NAME="MergerSortTest Coverage Results" MODIFIED="1626389150056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$HashSortTest.ic" NAME="HashSortTest Coverage Results" MODIFIED="1626389357304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.action.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$HashSortTest_testPosSortInsert.ic" NAME="HashSortTest.testPosSortInsert Coverage Results" MODIFIED="1626389474725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$MergerSortTest.ic" NAME="MergerSortTest Coverage Results" MODIFIED="1626389150056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.action.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$SubTest_testPosSortInsert.ic" NAME="SubTest.testPosSortInsert Coverage Results" MODIFIED="1626424848304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

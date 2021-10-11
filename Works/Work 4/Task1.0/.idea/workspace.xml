@@ -188,10 +188,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1626436217995" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1626447072163">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1627580660376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1626447072163" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1627580660376" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1626451126205">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -212,6 +212,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1625887628049" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1627579543261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1627579543261" />
+    <state x="65" y="59" key="new project wizard" timestamp="1627580626886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1627580626886" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Task1_0$Main.ic" NAME="Main Coverage Results" MODIFIED="1626446985547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
