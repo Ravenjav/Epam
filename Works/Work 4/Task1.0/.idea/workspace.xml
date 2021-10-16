@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4865fdf7-0647-45e8-9509-977f8d64c837" name="Default Changelist" comment="" />
+    <list default="true" id="4865fdf7-0647-45e8-9509-977f8d64c837" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/resources/Data/flowers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/resources/Data/flowers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/resources/Data/flowers.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/resources/Data/flowers.xsd" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,11 +31,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -158,6 +165,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -168,8 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625886807865</updated>
+      <workItem from="1634050513561" duration="249000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Project_Structure" timestamp="1625887638874">
@@ -222,6 +234,12 @@
     <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1627580626886" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Task1_0$SortTest_testPosTransportSort.ic" NAME="SortTest.testPosTransportSort Coverage Results" MODIFIED="1626440984238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$SortTest_testPosTypeSort.ic" NAME="SortTest.testPosTypeSort Coverage Results" MODIFIED="1626440816339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$Main.ic" NAME="Main Coverage Results" MODIFIED="1626446985547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>by.epam.traning.control.*</FILTER>
     </SUITE>
@@ -229,12 +247,6 @@
       <FILTER>test.action.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$SortTest_testPosEatingSort.ic" NAME="SortTest.testPosEatingSort Coverage Results" MODIFIED="1626440945200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.action.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$SortTest_testPosTransportSort.ic" NAME="SortTest.testPosTransportSort Coverage Results" MODIFIED="1626440984238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.action.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$SortTest_testPosTypeSort.ic" NAME="SortTest.testPosTypeSort Coverage Results" MODIFIED="1626440816339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.action.*</FILTER>
     </SUITE>
   </component>

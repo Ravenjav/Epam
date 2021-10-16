@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.training.by/entities"
+        xmlns:tns="http://www.training.by/entities"
+        elementFormDefault="qualified">
+
+    <element name="plants">
+        <complexType>
+            <sequence>
+                <element ref="tns:plant"
+                         minOccurs="1"
+                         maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
+
+    <element name="plant" type="tns:Plant" abstract="true"></element>
+    <element name="flower" type="tns:Flower" substitutionGroup="tns:plant"></element>
+    <element name="cactus" type="tns:Cactus" substitutionGroup="tns:plant"></element>
+
+    <complexType name="Plant">
+        <sequence>
+            <element name="name" type="ID"/>
+            <element name="origin" type="string"/>
+            <element name="growing_types"
+                     type="tns:Growing_types"/>
+        </sequence>
+        <attribute name="date" type="date" use="required"/>
+    </complexType>
+
+    <complexType name="Growing_types">
+        <sequence>
+            <element name="temperature">
+                <simpleType>
+                    <restriction base="double">
+                        <minInclusive value="0"/>
+                        <maxInclusive value="40"/>
+                    </restriction>
+                </simpleType>
+            </element>
+            <element name="lighting">
+                <simpleType>
+                    <restriction base="string">
+                        <enumeration value="Светолюбивое"/>
+                        <enumeration value="Не светолюбивое"/>
+                    </restriction>
+                </simpleType>
+            </element>
+            <element name="watering" type="int"/>
+        </sequence>
+    </complexType>
+
+    <complexType name="Flower">
+        <complexContent>
+            <extension base="tns:Plant">
+                <sequence>
+                    <element name="soil">
+                        <simpleType>
+                            <restriction base="string">
+                                <enumeration value="Подзолистая"/>
+                                <enumeration value="Грунтовая"/>
+                                <enumeration value="Дерново-подзолистая"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                    <element name="visual_parameters"
+                             type="tns:Flower_visual_parameters"/>
+                    <element name="multiplying">
+                        <simpleType>
+                            <restriction base="string">
+                                <enumeration value="Листьями"/>
+                                <enumeration value="Черенками"/>
+                                <enumeration value="Семенами"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                </sequence>
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <complexType name="Flower_visual_parameters">
+        <sequence>
+            <element name="stem_color" type="string"/>
+            <element name="leaf_color" type="string"/>
+            <element name="average_size">
+                <simpleType>
+                    <restriction base="double">
+                        <minInclusive value="0.01"/>
+                        <maxInclusive value="10.0"/>
+                    </restriction>
+                </simpleType>
+            </element>
+        </sequence>
+    </complexType>
+
+
+    <complexType name="Cactus">
+        <complexContent>
+            <extension base="tns:Plant">
+                <sequence>
+                    <element name="soil">
+                        <simpleType>
+                            <restriction base="string">
+                                <enumeration value="Подзолистая"/>
+                                <enumeration value="Грунтовая"/>
+                                <enumeration value="Дерново-подзолистая"/>
+                                <enumeration value="Гравий"/>
+                                <enumeration value="Песок"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                    <element name="visual_parameters"
+                             type="tns:Cactus_visual_parameters"/>
+                    <element name="multiplying">
+                        <simpleType>
+                            <restriction base="string">
+                                <enumeration value="Черенками"/>
+                                <enumeration value="Семенами"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                </sequence>
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <complexType name="Cactus_visual_parameters">
+        <sequence>
+            <element name="color" type="string"/>
+            <element name="aver_size">
+                <simpleType>
+                    <restriction base="double">
+                        <minInclusive value="0.01"/>
+                        <maxInclusive value="10.0"/>
+                    </restriction>
+                </simpleType>
+            </element>
+        </sequence>
+    </complexType>
+</schema>

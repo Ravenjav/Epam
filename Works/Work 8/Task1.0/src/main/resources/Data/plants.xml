@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plants xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.training.by/entities"
+        xsi:schemaLocation="http://www.training.by/entities  plants.xsd">
+
+    <flower date="2001-10-10">
+        <name>Роза</name>
+        <origin>Европпа</origin>
+        <growing_types>
+            <temperature>26.5</temperature>
+            <lighting>Светолюбивое</lighting>
+            <watering>666</watering>
+        </growing_types>
+        <soil>Грунтовая</soil>
+        <visual_parameters>
+            <stem_color>Зеленый</stem_color>
+            <leaf_color>Красный</leaf_color>
+            <average_size>2.5</average_size>
+        </visual_parameters>
+        <multiplying>Семенами</multiplying>
+    </flower>
+
+    <flower date="2001-10-09">
+        <name>Подснежник</name>
+        <origin>Европпа</origin>
+        <growing_types>
+            <temperature>15.5</temperature>
+            <lighting>Светолюбивое</lighting>
+            <watering>700</watering>
+        </growing_types>
+        <soil>Подзолистая</soil>
+        <visual_parameters>
+            <stem_color>Зеленый</stem_color>
+            <leaf_color>Белый</leaf_color>
+            <average_size>1.5</average_size>
+        </visual_parameters>
+        <multiplying>Семенами</multiplying>
+    </flower>
+
+    <cactus date="2004-12-03">
+        <name>Пустынник</name>
+        <origin>Африка</origin>
+        <growing_types>
+            <temperature>30</temperature>
+            <lighting>Светолюбивое</lighting>
+            <watering>100</watering>
+        </growing_types>
+        <soil>Песок</soil>
+        <visual_parameters>
+            <color>Зеленый</color>
+            <aver_size>7.4</aver_size>
+        </visual_parameters>
+        <multiplying>Семенами</multiplying>
+    </cactus>
+</plants>

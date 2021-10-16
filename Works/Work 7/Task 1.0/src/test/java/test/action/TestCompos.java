@@ -1,10 +1,10 @@
 package test.action;
 
-import by.epam.textReader.entity.Component;
-import by.epam.textReader.entity.Composite;
-import by.epam.textReader.service.compositeService.ParSeparation;
-import by.epam.textReader.service.sort.SortParagraphs;
-import by.epam.textReader.service.sort.SortText;
+import by.epam.textreader.entity.Component;
+import by.epam.textreader.entity.Composite;
+import by.epam.textreader.service.compositeService.ParSeparation;
+import by.epam.textreader.service.sort.SortParagraphs;
+import by.epam.textreader.service.sort.SortText;
 import org.testng.annotations.Test;
 
 import java.util.ArrayList;

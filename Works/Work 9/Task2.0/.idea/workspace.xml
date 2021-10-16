@@ -10,25 +10,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="521a6a34-9e8c-49a0-8161-acec8595e1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Work 3/Task1.0/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 3/Task1.0/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 5/Task1.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/Task 1.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 7/Task2.0/Task2.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/web/WEB-INF/Views/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/web/WEB-INF/Views/registration.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/web/WEB-INF/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task1.0/Task1.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2.0.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Work 3/Task1.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 3/Task1.0/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Work 3/Task1.0/target/classes/META-INF/Task1.0.kotlin_module" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FinalProj/AutoShop/Ver1.0/Ver1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/DAO/Speak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/control/Contoller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/control/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/entity/Cactus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/entity/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/entity/Growing_Types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/entity/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/sirvice/parsers/UseDoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/sirvice/parsers/UseSax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/sirvice/parsers/UseStax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/sirvice/parsers/doom/CactusDoomBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/sirvice/parsers/doom/FlowerDoomBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/sirvice/parsers/sax/CactusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/sirvice/parsers/sax/CactusHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/sirvice/parsers/sax/CactusSaxBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/sirvice/parsers/sax/FlowerEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/sirvice/parsers/sax/FlowerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/java/by/epam/xmlParsingTask/sirvice/parsers/sax/FlowerSaxBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/resources/Data/plants.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/resources/Data/plants.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task1.0/.idea/Task1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/resourceBundles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lang/lang_En_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lang/lang_Ru_BY.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1.0/Test1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Work 4/Task1.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 4/Task1.0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/entity/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/entity/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/entity/Composite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/entity/Composite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/entity/LeafMark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/entity/LeafMark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/entity/LeafSymbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/entity/LeafSymbol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/service/compositeService/BaseInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/service/compositeService/BaseInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/service/compositeService/CharSeparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/service/compositeService/CharSeparation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/service/compositeService/LexemSeparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/service/compositeService/LexemSeparation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/service/compositeService/ParSeparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/service/compositeService/ParSeparation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/service/compositeService/SentSeparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/service/compositeService/SentSeparation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/service/compositeService/WordSeparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/service/compositeService/WordSeparation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/service/sort/SortLexem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/service/sort/SortLexem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/service/sort/SortParagraphs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/service/sort/SortParagraphs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/service/sort/SortText.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/service/sort/SortText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textReader/service/sort/SortWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/main/java/by/epam/textreader/service/sort/SortWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/test/java/test/action/TestCompos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/src/test/java/test/action/TestCompos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/META-INF/Task 1.0.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/entity/Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/entity/Composite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/entity/LeafMark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/entity/LeafSymbol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/service/compositeService/BaseInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/service/compositeService/CharSeparation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/service/compositeService/LexemSeparation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/service/compositeService/ParSeparation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/service/compositeService/SentSeparation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/service/compositeService/WordSeparation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/service/sort/SortLexem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/service/sort/SortParagraphs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/service/sort/SortText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/classes/by/epam/textReader/service/sort/SortWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/test-classes/META-INF/Task 1.0.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 7/Task 1.0/target/test-classes/test/action/TestCompos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 8/Task1.0/.idea/artifacts/Task1_0_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 8/Task1.0/.idea/artifacts/Task1_0_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/resources/Data/flowers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 8/Task1.0/src/main/resources/Data/flowers.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/lang/lang.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +83,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -52,10 +106,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Work 7/Task2.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -176,6 +232,7 @@
       <workItem from="1632647533066" duration="1371000" />
       <workItem from="1633874352073" duration="686000" />
       <workItem from="1633904487525" duration="3149000" />
+      <workItem from="1634401260402" duration="4640000" />
     </task>
     <servers />
   </component>
@@ -193,6 +250,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
