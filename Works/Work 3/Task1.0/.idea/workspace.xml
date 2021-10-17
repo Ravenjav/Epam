@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8414b99-aca7-4920-99da-3a3763928617" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 5/Task1.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 7/Task 1.0/Task 1.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 7/Task2.0/Task2.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 9/Task1.0/Task1.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 9/Task2.0/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 9/Task2.0/Task2.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 9/Task2.0/src/main/resources/lang.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 9/Task2.0/src/main/resources/lang_En_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Work 9/Task2.0/src/main/resources/lang_Ru_BY.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Task1.0.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Work 4/Task1.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 4/Task1.0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Work 5/src/main/java/by/epam/circle/DAO/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 5/src/main/java/by/epam/circle/DAO/FileReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
