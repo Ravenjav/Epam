@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8414b99-aca7-4920-99da-3a3763928617" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../FinalProj/AutoShop/Ver1.0/.idea/artifacts/Ver1_0_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProj/AutoShop/Ver1.0/.idea/artifacts/Ver1_0_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Work 4/Task1.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 4/Task1.0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/By/Epam/Traning/service/ServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/By/Epam/Traning/service/ServiceFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Work 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Work 5/src/main/java/by/epam/circle/DAO/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Work 5/src/main/java/by/epam/circle/DAO/FileReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -175,6 +176,11 @@
       <option name="presentableId" value="Default" />
       <updated>1624294582536</updated>
       <workItem from="1631918357880" duration="1773000" />
+      <workItem from="1634522289291" duration="5664000" />
+      <workItem from="1634596540524" duration="9152000" />
+      <workItem from="1634722444214" duration="614000" />
+      <workItem from="1635893586948" duration="24000" />
+      <workItem from="1635964031762" duration="4353000" />
     </task>
     <servers />
   </component>
@@ -186,62 +192,55 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="184" y="6" key="SettingsEditor" timestamp="1631919902821">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1631919902821" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Task1_0$ChoseSortTest_testPosSortInsert.ic" NAME="ChoseSortTest.testPosSortInsert Coverage Results" MODIFIED="1625871870852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.action.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$Main.ic" NAME="Main Coverage Results" MODIFIED="1626436039795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>By.Epam.Traning.control.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$InsertSortTest.ic" NAME="InsertSortTest Coverage Results" MODIFIED="1626390662358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.action.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$SumTest_testPosSortInsert.ic" NAME="SumTest.testPosSortInsert Coverage Results" MODIFIED="1626424748699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.action.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$HashSortTest.ic" NAME="HashSortTest Coverage Results" MODIFIED="1626389357304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$ShakeSortTest.ic" NAME="ShakeSortTest Coverage Results" MODIFIED="1626390722387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.action.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$HashSortTest_testPosSortInsert.ic" NAME="HashSortTest.testPosSortInsert Coverage Results" MODIFIED="1626389474725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.action.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$MergerSortTest.ic" NAME="MergerSortTest Coverage Results" MODIFIED="1626389150056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$ChoseSortTest_testPosSortInsert.ic" NAME="ChoseSortTest.testPosSortInsert Coverage Results" MODIFIED="1625871870852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.action.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$SubTest_testPosSortInsert.ic" NAME="SubTest.testPosSortInsert Coverage Results" MODIFIED="1626424848304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.action.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$ChoseSortTest.ic" NAME="ChoseSortTest Coverage Results" MODIFIED="1626388923274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.action.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$ShakeSortTest.ic" NAME="ShakeSortTest Coverage Results" MODIFIED="1626390722387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.action.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$BubbleSortTest_testPosSortInsert.ic" NAME="BubbleSortTest.testPosSortInsert Coverage Results" MODIFIED="1626389068929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.action.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Task1_0$InsertSortTest_testPosSortInsert.ic" NAME="InsertSortTest.testPosSortInsert Coverage Results" MODIFIED="1626390684269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Task1_0$SumTest_testPosSortInsert.ic" NAME="SumTest.testPosSortInsert Coverage Results" MODIFIED="1626424748699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.action.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$MergerSortTest_testPosSortInsert.ic" NAME="MergerSortTest.testPosSortInsert Coverage Results" MODIFIED="1626390632255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.action.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$HashSortTest.ic" NAME="HashSortTest Coverage Results" MODIFIED="1626389357304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$SubTest_testPosSortInsert.ic" NAME="SubTest.testPosSortInsert Coverage Results" MODIFIED="1626424848304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$InsertSortTest_testPosSortInsert.ic" NAME="InsertSortTest.testPosSortInsert Coverage Results" MODIFIED="1626390684269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$MergerSortTest.ic" NAME="MergerSortTest Coverage Results" MODIFIED="1626389150056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$BubbleSortTest_testPosSortInsert.ic" NAME="BubbleSortTest.testPosSortInsert Coverage Results" MODIFIED="1626389068929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$MultTest_testPosSortInsert.ic" NAME="MultTest.testPosSortInsert Coverage Results" MODIFIED="1626425766949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$InsertSortTest.ic" NAME="InsertSortTest Coverage Results" MODIFIED="1626390662358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$ChoseSortTest.ic" NAME="ChoseSortTest Coverage Results" MODIFIED="1626388923274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.action.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Task1_0$Main.ic" NAME="Main Coverage Results" MODIFIED="1626436039795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>By.Epam.Traning.control.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Task1_0$BubbleSortTest_testPosSortInsertV2.ic" NAME="BubbleSortTest.testPosSortInsertV2 Coverage Results" MODIFIED="1626454119612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.action.*</FILTER>

@@ -3,7 +3,7 @@ package By.Epam.Traning.service;
 import By.Epam.Traning.service.masSort.*;
 import By.Epam.Traning.service.matOperations.*;
 
-public class ServiceFactory {
+public class    ServiceFactory {
     private static final ServiceFactory factory = new ServiceFactory();
     private final Sort bubble = new BubbleSort();
     private final Sort chose = new ChoseSort();
